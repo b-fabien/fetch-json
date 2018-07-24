@@ -1,6 +1,6 @@
 import React from "react";
 
-const MovieAfiiche = props => (
+const MovieAffiche = props => (
   <figure>
     <img
       src={props.src}
@@ -12,4 +12,4 @@ const MovieAfiiche = props => (
   </figure>
 );
 
-export default MovieAfiiche;
+export default MovieAffiche;
